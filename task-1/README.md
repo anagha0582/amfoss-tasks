@@ -1,0 +1,2 @@
+## Star all the repositories (task-1)
+I followed the instuction given in the repository. I signed up in my github account on my browser and authorised the setup. Then, I ran the code but it didnt work at first so i had to do it manually and in my web browser. The script ran for a while and I ensured that it ran until the end. At the end, it displayed "Starring done". After all the setting up, I felt satisfied to complete the first task :) 
